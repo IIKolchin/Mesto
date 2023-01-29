@@ -1,21 +1,21 @@
-# Место
+# Place
 
 
-## Обзор
-Интерактивная страница, на которой можно делиться красивыми фотографиями
+## Overview
+An interactive page where you can share beautiful photos
 
-## Функционал
-* изменение данных пользователя и аватара
-* добавление, удаление карточек, возможность поставить лайк
-* валидация форм
+## Functional
+* changing user and avatar data
+* adding, deleting cards, the ability to like
+* validation of forms
 
 
-## Используемые технологии
+## Technologies used
 * Grid-layout
-* Flex, интерактивные элементы, 
-* адаптивная верстка. Файловая структура организована по 
-* БЭМ.
+* Flex, interactive elements,
+* adaptive layout. The file structure is organized by
+* BEM.
 * ES6 Classes
 
-## Cсылка на GitHub Pages:
+## Link to GitHub Pages:
 https://iikolchin.github.io/mesto-project/index.html
